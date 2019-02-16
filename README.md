@@ -1,6 +1,5 @@
 yayeet
-public float maxbutt 3;800f
-yayeetyeett
-yayeet
-float maxbutt 3
-commit heather.chandler
+
+float bananas 3
+amarhasnofeet 3
+float public string bananas
